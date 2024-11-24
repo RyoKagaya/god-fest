@@ -9,7 +9,7 @@
 
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）
+https://ryokagaya.github.io/god-fest/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
